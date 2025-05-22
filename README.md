@@ -47,3 +47,6 @@ javac -cp gson-2.11.0.jar *.java
 📝 En Linux/Mac usa : en lugar de ; para separar el classpath:
 java -cp .:gson-2.11.0.jar Main
 ```
+<p align="left">
+<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
